@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+
+body {
+	font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+a {
+	font-weight: bold;
+}
+
+.main-header {
+	height: auto;
+	background: linear-gradient(to bottom, #2980b9 0%, #205081 100%);
+}
+
+.logo {
+	color: #ffffff;
+	font-size: 1.5em;
+}
+
+.logo:hover {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.img-logo {
+	margin: 0.2em;
+}
+
